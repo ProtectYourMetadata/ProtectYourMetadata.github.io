@@ -2,7 +2,7 @@
 ---
 
 # Why protect your metadata?
-Every interaction you do over the internet leaves digital footprints. Malicious 3rd parties can collect your 3rd parties and learn a lot about your habits, preferences and thoughts.
+Every interaction you do over the internet leaves digital footprints. Malicious 3rd parties can monitor your interactions and learn a lot about your habits, preferences and thoughts.
 
 ## Ways to protect yourself
 
