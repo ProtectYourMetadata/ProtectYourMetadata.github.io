@@ -7,6 +7,7 @@ Every interaction you do over the internet leaves digital footprints. Malicious 
 This report shows that [9 out 10 Caught in NSA Dragnet Are 'Ordinary People'](http://www.commondreams.org/news/2014/07/06/report-9-out-10-caught-nsa-dragnet-are-ordinary-people),
 meaning that you don't need to be doing anything bad to be accidentally caught up in surveillance.
 
+[Crikey](http://www.crikey.com.au) wrote an article on how [Data retention will hurt YOU, not criminals](http://www.crikey.com.au/2015/02/06/data-retention-will-hurt-you-not-criminals-heres-how/)
 
 ## Ways to protect yourself
 
@@ -31,7 +32,7 @@ E-Commerce websites have been encrypting their data with HTTPS for many years no
 ### Secure messaging
 * Setup Difficulty: Easy. (However you still need to convince your friends that privacy is important enough for them to switch over with you)
 * Level of protection: Medium. Will stop people from seeing who you message and what the contents are.
-* Quick setup link: [https://telegram.org](https://telegram.org) **But ensure you use secret chats, not the default chats which are unsecure**
+* Quick setup link: [https://telegram.org](https://telegram.org) Default chats have 1 level of protection, but use secret chats for increased encryption.
 * [EFF scorecard of chat clients](https://www.eff.org/secure-messaging-scorecard)
 
 Using a secure messaging client can help protect what you send and who you send it to.
